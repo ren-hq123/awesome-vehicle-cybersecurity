@@ -11,10 +11,16 @@ IACR eprint
 ### 网络安全
 四大顶会，偏工程，安全领域的四大是最有含金量的
 #### ccs
+
 #### ndss
-Revisiting Automotive Attack Surfaces: a Practitioners' Perspective.
+
+**Revisiting Automotive Attack Surfaces: a Practitioners' Perspective**
+
 推荐阅读 科恩实验室采访了车联网络安全从业者，提出了新的威胁库和TARA方法论
-Faster and Better: Detecting Vulnerabilities in Linux-based IoT Firmware with Optimized Reaching Definition Analysis
+
+Faster and Better: Detecting Vulnerabilities in Linux-based IoT Fir
+
+mware with Optimized Reaching Definition Analysis
 
 Drone Security and the Mysterious Case of DJI's DroneID
 
