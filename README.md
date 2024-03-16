@@ -26,7 +26,7 @@ ChargePrint: A Framework for Internet-Scale Discovery and Security Analysis of E
 
 #### ndss vehicle security
 ndss车联网安全会议，内容比较对口且质量高，推荐
-
+https://www.ndss-symposium.org/ndss2023/co-located-events/vehiclesec/
 #### s&p
 SecureML: A System for Scalable Privacy-Preserving Machine Learning
 
@@ -41,17 +41,21 @@ Egg Hunt in Tesla Infotainment: A First Look at Reverse Engineering of Qt Binari
 
 #### EUROCRYPT
 
-#### （推荐，偏车联网硬件相关）密码芯片嵌入式的会议  CHES：International Conference on Cryptographic Hardware and Embedded Systems
+#### CHES（推荐，偏车联网硬件相关） International Conference on Cryptographic Hardware and Embedded Systems
 
 ### Others
 CANtropy: Time Series Feature Extraction-Based Intrusion Detection Systems for Controller Area Networks
 
 ### 人
+#### 汽车黑客
+https://illmatics.com/carhacking.html
 
+#### 偏学术vehicle security 
 k.g.shin
 https://rtcl.eecs.umich.edu/rtclweb/research/
 xiapuluo 
 https://www4.comp.polyu.edu.hk/~csxluo/
+
 ### 攻防事件
 车联网安全事件轴 https://delikely.eu.org/Automotive-Security-Timeline/
 
